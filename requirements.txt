@@ -17,3 +17,4 @@ numpy==1.23.5
 protobuf==3.20.0
 av==11.0.0
 einops==0.7.0
+paddlepaddle-gpu==2.6.1.post120 --find-links https://www.paddlepaddle.org.cn/whl/linux/mkl/avx/stable.html
