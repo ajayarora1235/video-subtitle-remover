@@ -1,3 +1,12 @@
+---
+title: Video Subtitle Remover
+sdk: gradio
+python_version: 3.11.9
+sdk_version: 5.1.0
+app_file: app.py
+pinned: false
+---
+
 简体中文 | [English](README_en.md)
 
 ## 项目简介
